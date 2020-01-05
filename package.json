@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eremina-official/cucumber-js/issues"
   },
-  "homepage": "https://github.com/eremina-official/cucumber-js#readme"
+  "homepage": "https://github.com/eremina-official/cucumber-js#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
 }
